@@ -1,0 +1,7 @@
+Mô tả ứng dụng:
+
+Mục tiêu của ứng dụng này là giúp các nhân viên làm việc trong một nhà hàng có thể hoàn thành công việc của mình một cách nhanh chóng nhất và hiệu quả nhất. Để thực hiện mục tiêu này thì app mình cung cấp cho người dùng 4 chức năng chính là:
+	- Theo dõi trạng thái của tất cả các bàn trong nhà hàng.
+	- Order món ăn
+	- Thanh toán
+	- Đặt bàn 

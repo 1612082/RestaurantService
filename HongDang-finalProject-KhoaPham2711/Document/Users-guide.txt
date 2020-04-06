@@ -1,0 +1,17 @@
+Hướng dẫn cài đặt và sử dụng:
+- Cài đặt:
+	1. Restore database bằng file backupdb.backup (công cụ pgAdmin4)
+	2. Chạy server bằng nodejs
+	3. Chạy client bằng xcode
+- Sử dụng chương trình:
+	1. Màn hình đăng nhập của app đã được điền sẵn username và pass nếu không có thì (username = abc@gmail.com, pass = a)
+	2. Sau khi đăng nhập ta vào bên trong của chương trình
+	3. Bên trong này ta có 4 tab ( lobby - hiển thị các sảnh của nhà hàng, order - hiển thị các order của khách cho nhà bếp xem, payment - thanh toán hóa đơn của khách,reservation - đặt bàn trước cho khách)
++ Lobby:
+	Trong tab này ta có thể thực hiện các hành động xem trạng thái của các bàn , order thức ăn cho từng bàn
++ Order:
+	Tab này dành cho nhà bếp xem, các đầu bếp có thể biết các món ăn đã được gọi bao nhiêu phút và món ăn nào cần thực hiện ngay lập tức.
++ Payment:
+	Bộ phận thanh toán có thể dễ dàng biết được khách đã gọi những món gì và tổng tiền khách phải trả
++ Reservation:
+	Nhân viên có thể đặt bàn trước cho khách cũng như biết được bàn nào sắp đến giờ để chuẩn bị
