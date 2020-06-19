@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - DownPicker (0.1.34)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - DownPicker
+  - Socket.IO-Client-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DownPicker
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  DownPicker: c00ea63f08ae82116cc93d0eba74e86bf3d4c68e
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: e5724a12a4b62024605c4a6f9345dcec44db3b9e
+
+COCOAPODS: 1.9.0
