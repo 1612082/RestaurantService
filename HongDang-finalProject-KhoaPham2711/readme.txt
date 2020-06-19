@@ -10,3 +10,5 @@ Trong file này gồm có 4 mục:
 4. Document: chứa file mô tả và hướng dẫn sử dụng và link demo chương trình hoàn chỉnh.
 
 Link demo YouTube: https://www.youtube.com/watch?v=Ab64MJtkYBU&t=53s
+
+ps: nếu không xem được code thì pull về máy thì code sẽ hiện ra.
